@@ -19,8 +19,8 @@ characters, and the ratio of next character.
 ```
 
 <details>
-<summary>Statistics of `examples/example.rs`</summary>
-```
+<summary>Statistics of <code>examples/example.rs</code></summary>
+<pre>
 {
     'e': LetterStat {
         count: 2,
@@ -143,5 +143,5 @@ characters, and the ratio of next character.
         },
     },
 }
-```
+</pre>
 </details>
